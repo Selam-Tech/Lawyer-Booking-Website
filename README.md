@@ -36,5 +36,15 @@ The purpose of this project is to simplify legal consultation access by creating
 - Document upload support
 
 ## Author
+## Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.jpg)
+
+### Booking Page
+![Booking Page](screenshots/bookingpage.jpg)
+
+### contact us
+![contact us](screenshots/contact.jpg)
 
 Selamawit Mekbib
